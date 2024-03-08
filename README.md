@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Guido!</h1>
+<h1 align="center">Hello there 👋, I'm Guido!</h1>
 <h3 align="center">A Mobile Developer from Bolivia 🇧🇴</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guix98" alt="guix98" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Django, Flask**
+- 🌱 I’m currently learning: **Python, Django, Flask**
 
-- 💬 Ask me about **Flutter, Dart, Mobile Architecture**
+- 💬 Ask me about: **Flutter, Dart, Mobile Architecture, UX**
 
-- 📫 How to reach me **guimega.gh@gmail.com**
+- 📫 How to reach me: **guimega.gh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guidohb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guidohb" height="30" width="40" /></a>
-<a href="https://fb.com/guido hernani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guido hernani" height="30" width="40" /></a>
+<a href="https://fb.com/guido.hb98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guido hernani" height="30" width="40" /></a>
 <a href="https://instagram.com/the_original_guix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_original_guix" height="30" width="40" /></a>
 </p>
 
